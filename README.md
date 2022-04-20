@@ -1,3 +1,4 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&color=61ffca&center=true&width=1000&lines=Hey+there!+I'm+LycaKnight)
 <p align="center">Developer 💻 IT-Consultant 🖥️ Dreamcatcher💖</p>
