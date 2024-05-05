@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&color=61ffca&center=true&width=1000&lines=Hey+there!+I'm+LycaKnight)
 <p align="center">Developer 💻 IT-Consultant 🖥️ Dreamcatcher💖</p>
 <br>
-<br>
 <p align="center">
 <a href="https://app.daily.dev/lycaknight"><img src="./devcard.png" width="400" alt="Lyca-Knight's Dev Card"/></a>
 </p>
