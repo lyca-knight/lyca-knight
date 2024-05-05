@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-<a href="https://app.daily.dev/lycaknight"><img src="https://github.com/Lyca-Knight/Lyca-Knight/blob/main/devcard.png" width="400" alt="Lyca-Knight's Dev Card"/></a>
+<a href="https://app.daily.dev/lycaknight"><img src="./devcard.png" width="400" alt="Lyca-Knight's Dev Card"/></a>
 </p>
 <br>
 <br>
